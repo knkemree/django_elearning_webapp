@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="073ec133-8689-4040-b062-eaef4e275254" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="073ec133-8689-4040-b062-eaef4e275254" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +10,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/educa/courses/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -24,20 +22,16 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/educa/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/educa/educa/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="126" selection-start-line="126" selection-end-line="126" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/educa/courses/templates/list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -174,32 +168,6 @@
               <item name="educa" type="462c0819:PsiDirectoryNode" />
               <item name="educa" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="educa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="educa" type="462c0819:PsiDirectoryNode" />
-              <item name="educa" type="462c0819:PsiDirectoryNode" />
-              <item name="courses" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="educa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="educa" type="462c0819:PsiDirectoryNode" />
-              <item name="educa" type="462c0819:PsiDirectoryNode" />
-              <item name="courses" type="462c0819:PsiDirectoryNode" />
-              <item name="manage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="educa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="educa" type="462c0819:PsiDirectoryNode" />
-              <item name="educa" type="462c0819:PsiDirectoryNode" />
-              <item name="courses" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="educa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="educa" type="462c0819:PsiDirectoryNode" />
-              <item name="educa" type="462c0819:PsiDirectoryNode" />
-              <item name="educa" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -287,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585618162384</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pushing requirement.txt">
+      <created>1585620261640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585620261640</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -320,7 +295,8 @@
     <MESSAGE value="delete page" />
     <MESSAGE value="cahnging path of list.html" />
     <MESSAGE value="chnging path of delete.html and form.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="chnging path of delete.html and form.html" />
+    <MESSAGE value="pushing requirement.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing requirement.txt" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/educa/courses/admin.py">
@@ -444,6 +420,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/educa/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
